@@ -1,4 +1,4 @@
-<img width="2048" height="2048" alt="dev_computer" src="https://github.com/user-attachments/assets/3f799f2d-bdcf-49d6-8110-66502c2e47fe" />
+<img width="500" height="500" alt="dev_computer" src="https://github.com/user-attachments/assets/3f799f2d-bdcf-49d6-8110-66502c2e47fe" />
 
 # I'm luli Lee 🥰
 <br/>
