@@ -1,10 +1,10 @@
 <div align="center">
   <img width="500" height="500" alt="dev_computer" src="https://github.com/user-attachments/assets/3f799f2d-bdcf-49d6-8110-66502c2e47fe" />
 
-  # I'm luli Lee 🥰
+  # luli Lee | Web Developer 🥰
   <br/>
   
-  ### 💻 Stacks
+  ### 💻 Tech Stack
   
   <div align=center> 
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -27,6 +27,11 @@
   ### 📊 GitHub Stats
   
   ![Luli's GitHub stats](https://github-readme-stats.vercel.app/api?username=nidor022&show_icons=true&theme=radical)
+  
+  <br/>
+  <br/>
+
+  ### 📊 Top Languages
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidor022&layout=compact)
     
