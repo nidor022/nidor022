@@ -28,13 +28,12 @@
   
   ![Luli's GitHub stats](https://github-readme-stats-steel-sigma-32.vercel.app/api?username=nidor022&show_icons=true&theme=radical)
 
-
   <br/>
   <br/>
 
   ### 📊 Top Languages
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidor022&layout=compact)
+  ![Top Langs](https://github-readme-stats-steel-sigma-32.vercel.app/api/top-langs/?username=nidor022&layout=compact)
     
   <br/>
   <br/>
