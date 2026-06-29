@@ -26,9 +26,7 @@
   
   ### 📊 GitHub Stats
   
-  ![Luli's GitHub stats](https://github-readme-stats.vercel.app/api?username=nidor022&show_icons=true&theme=radical)
-
-  ![stats](https://nidor022.vercel.app/api?username=nidor022&show_icons=true&theme=radical)
+  ![Luli's GitHub stats](https://github-readme-stats-steel-sigma-32.vercel.app/api?username=nidor022&show_icons=true&theme=radical)
 
 
   <br/>
